@@ -1,4 +1,1 @@
-"use strict";
-const a = document.createElement("a");
-a.href = "/editor;
-a.click();
+window.open("https://pixelcore.warpcore.live/editor")
