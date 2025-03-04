@@ -1,1 +1,1 @@
-window.open("https://pixelcore.warpcore.live/editor")
+window.location.href = "https://pixelcore.warpcore.live/editor";
